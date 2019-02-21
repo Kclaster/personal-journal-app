@@ -9,6 +9,10 @@
   background: white;
 }
 
+.snippet:hover {
+  background: transparent;
+}
+
 .snippet h2 {
   margin: 0 auto;
 }
