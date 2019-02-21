@@ -1,0 +1,14 @@
+.snippet {
+  width: 90px;
+  height: 60px;
+  border: 1px solid black;
+  display: grid;
+  grid-template-columns: 1fr;
+  align-content: center;
+  text-align: center;
+  background: white;
+}
+
+.snippet h2 {
+  margin: 0 auto;
+}

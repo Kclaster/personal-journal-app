@@ -1,0 +1,11 @@
+.favorite-container {
+  grid-column-start: 6;
+  background-color: black;
+  color: white;
+  width: 25%;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  right: 0;
+  text-align: center;
+}

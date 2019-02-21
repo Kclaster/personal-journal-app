@@ -1,0 +1,9 @@
+.display-container {
+  grid-area: 3 / 2 / 4 / 5;
+  grid-template-columns: 1fr 1fr 1fr;
+  width: 100%;
+  display: grid;
+  margin-top: 6vh;
+  row-gap: 3vh;
+  justify-items: center;
+}
